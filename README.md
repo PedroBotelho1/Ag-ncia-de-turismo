@@ -7,20 +7,32 @@ As structs usadas são:
 Struct Países:
 ![image](https://github.com/user-attachments/assets/ec0e24b9-efaa-4fa2-9777-7860cdb5455c)
 
+
+
 Struct Cidades:
 ![image](https://github.com/user-attachments/assets/d7c6d4c1-df49-487b-b753-8a66b690f3b5)
+
+
 
 Struct Guias: 
 ![image](https://github.com/user-attachments/assets/a07054e0-3e9e-495e-995b-d77633871ff2)
 
+
+
 Struct Clientes:
 ![image](https://github.com/user-attachments/assets/a20144f5-69c8-4c67-9442-7adf788ae66a)
+
+
 
 Struct Pacotes: 
 ![image](https://github.com/user-attachments/assets/cd5c47d9-9e7e-468a-9a96-80903e275a00)
 
+
+
 Struct Vendas: 
 ![image](https://github.com/user-attachments/assets/e14932b0-8017-41e6-a152-dd8476f62b72)
+
+
 
 A tela de Menu:
 ![image](https://github.com/user-attachments/assets/d4e82c46-bba4-4eb5-b361-8a296e7ea51a)
