@@ -1,0 +1,1 @@
+Este projeto simula uma aplicação de gerenciamento para uma Agência de Turismo. A aplicação utiliza arquivos sequenciais para gerenciar dados essenciais, como Países, Cidades, Guias, Clientes, Pacotes e Vendas. O objetivo é fornecer uma solução eficiente para organizar e manipular informações vitais para a operação da agência.
