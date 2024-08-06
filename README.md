@@ -2,6 +2,7 @@ Este projeto simula uma aplicação de gerenciamento para uma Agência de Turism
 
 O software de gerenciamento para uma Agência de Turismo deve permitir a leitura e exibição dos dados de Países, Cidades, Guias e Clientes. Ele deve possibilitar a inclusão de novos registros, garantindo a unicidade dos códigos (para Guias) e CPFs (para Clientes), exibindo informações adicionais como cidade e país associados. Também deve permitir a exclusão de clientes. Na inclusão de pacotes, deve exibir detalhes do guia responsável, e na inclusão de vendas, deve validar e calcular informações relevantes, garantindo que a quantidade de participantes não exceda o máximo permitido. Funções de consulta devem permitir a visualização detalhada dos pacotes e das vendas, incluindo pacotes totalmente vendidos e o valor total arrecadado. Um menu de opções na função main() deve facilitar a navegação entre todas as funcionalidades.
 
+
 As structs usadas são:
 
 Struct Países:
@@ -53,5 +54,8 @@ Struct Vendas:
 
 
 A tela de Menu:
+
+
+
 ![image](https://github.com/user-attachments/assets/d4e82c46-bba4-4eb5-b361-8a296e7ea51a)
 
